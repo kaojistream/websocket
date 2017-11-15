@@ -7,8 +7,7 @@ const WebSocket = require('ws');
 let ws;
 
 function init() {
-  // ws = new WebSocket('ws://localhost:8080/websocket');
-  ws = new WebSocket('ws://139.219.60.202:8080/websocket');
+  ws = new WebSocket('ws://localhost:8080/websocket');
   ws.on('open', function open() {
     console.log('连接ws成功');
     // ws.send('something');
