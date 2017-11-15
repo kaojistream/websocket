@@ -1,6 +1,6 @@
 /**
  * Created by huangzc on 2017/11/9.
- * 子进程 进行websocket通信，基于stomp消息内容协议
+ * 子进程 进行websocket通信
  */
 'use strict';
 const WebSocket = require('ws');
