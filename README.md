@@ -1,4 +1,10 @@
 # websocket
+原材料：</br>
+jdk8</br>
+spring tool suite</br>
+node 8.9.1</br>
+webstorm（node ide 推荐使用）</br>
+</br>
 spring+websocket server&amp;nodejs websocket client</br>
 包含websocket nodejs客户端和websocket Java服务端</br>
 </br>
